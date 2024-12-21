@@ -46,6 +46,7 @@
 /* second section */
 
 .second {
+    height: 535px;
     width: 100%;
 }
 
@@ -255,6 +256,7 @@
 /* fifth section*/
 .fifth {
     position: relative;
+    height: 600px;
     width: 100%;
 }
 
